@@ -235,9 +235,6 @@ pre {
 /* MAIN
 --------------------------------------------------------------------------------- */
 .unit-article header {
-  margin-bottom: 1.625em;
-  padding-top: 1.625em;
-  padding-bottom: 1.625em;
 }
 .unit-article header h3 {
   color: #607890;
