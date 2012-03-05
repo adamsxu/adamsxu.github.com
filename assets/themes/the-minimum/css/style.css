@@ -24,7 +24,7 @@ Calculation should be done via  http://j.mp/rNg5uA
 No styleguide reference.
 */
 body {
-  font-family: 'Amethysta', Georgia, "Times New Roman", serif;
+  font-family: Menlo, Monaco, 'Amethysta', Georgia, "Times New Roman", serif;
   font-size: 1em;
   line-height: 1.625em;
 }
