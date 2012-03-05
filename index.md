@@ -26,15 +26,6 @@ tagline:
           </ul>
         </div><!-- entry-content -->
       </div><!-- bd -->
-
-      <footer class="unit-foot">
-        <div class="unit-inner unit-foot-inner">
-          <p class="gotop">
-            <a href="#page">Back to Top</a>
-          </p>
-        </div>
-      </footer>
-
     </div><!-- content -->
   </div><!-- unit-inner -->
 </article>
