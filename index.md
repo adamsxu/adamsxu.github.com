@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Running
 tagline: 
 ---
 {% include JB/setup %}
