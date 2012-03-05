@@ -213,9 +213,17 @@ pre {
 /* HEADER
 --------------------------------------------------------------------------------- */
 .the-header {
-  background: #E4D4A3;
-  color: #333;
-  padding: 5px;
+  height:90px;width:100%;
+  border-top:1px solid #5c9ec8;
+  border-bottom:1px solid #2f5b87;
+  background-color: #1e75b0;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(30, 117, 176)), to(rgb(18, 82, 136)));
+  background-image: -webkit-linear-gradient(top, rgb(30, 117, 176), rgb(18, 82, 136));
+  background-image: -moz-linear-gradient(top, rgb(30, 117, 176), rgb(18, 82, 136));
+  background-image: -o-linear-gradient(top, rgb(30, 117, 176), rgb(18, 82, 136));
+  background-image: -ms-linear-gradient(top, rgb(30, 117, 176), rgb(18, 82, 136));
+  background-image: linear-gradient(top, rgb(30, 117, 176), rgb(18, 82, 136));
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#1e75b0', EndColorStr='#125288');
   margin: auto;
   margin-bottom: 35px;
 }
@@ -224,10 +232,9 @@ pre {
   margin: 0;
   width: 10em;
   float: left;
+  color: #fff;
 }
-.the-header .logo a:visited {
-  color: #2d2d2d;
-}
+
 .the-header .nav-global {
   text-transform: uppercase;
   width: 25em;
@@ -552,6 +559,7 @@ pre {
 .the-header .logo a {
   font-size: 32px;
   line-height: 42px;
+  color: #fff;
 }
 
 
@@ -702,6 +710,9 @@ pre {
     margin-right: 16px;
     word-spacing: normal;
     vertical-align: middle;
+  }
+  .the-header .nav-global li a {
+    color: #fff;
   }
   .the-header .nav-global li:last-child {
     margin-right: 0;
