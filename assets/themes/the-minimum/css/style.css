@@ -214,16 +214,16 @@ pre {
 --------------------------------------------------------------------------------- */
 .the-header {
   height:90px;width:100%;
-  border-top:1px solid #5c9ec8;
-  border-bottom:1px solid #2f5b87;
-  background-color: #1e75b0;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(30, 117, 176)), to(rgb(18, 82, 136)));
-  background-image: -webkit-linear-gradient(top, rgb(30, 117, 176), rgb(18, 82, 136));
-  background-image: -moz-linear-gradient(top, rgb(30, 117, 176), rgb(18, 82, 136));
-  background-image: -o-linear-gradient(top, rgb(30, 117, 176), rgb(18, 82, 136));
-  background-image: -ms-linear-gradient(top, rgb(30, 117, 176), rgb(18, 82, 136));
-  background-image: linear-gradient(top, rgb(30, 117, 176), rgb(18, 82, 136));
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#1e75b0', EndColorStr='#125288');
+  border-top:1px solid #8f9aa2;
+  border-bottom:1px solid #3f4f5d;
+  background-color: #67ade2;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(103, 173, 226)), to(rgb(33, 121, 183)));
+  background-image: -webkit-linear-gradient(top, rgb(103, 173, 226), rgb(33, 121, 183));
+  background-image: -moz-linear-gradient(top, rgb(103, 173, 226), rgb(33, 121, 183));
+  background-image: -o-linear-gradient(top, rgb(103, 173, 226), rgb(33, 121, 183));
+  background-image: -ms-linear-gradient(top, rgb(103, 173, 226), rgb(33, 121, 183));
+  background-image: linear-gradient(top, rgb(103, 173, 226), rgb(33, 121, 183));
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#67ade2', EndColorStr='#2179b7');
   margin: auto;
   margin-bottom: 35px;
 }
