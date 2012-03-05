@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Running | Doit.im, GTD, Founder
+title: Running | Doit.im, GTDer, Founder
 tagline: 
 ---
 {% include JB/setup %}
