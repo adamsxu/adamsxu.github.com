@@ -255,7 +255,6 @@ pre {
   margin-top: 0;
   margin-bottom: 0;
   font-weight: normal;
-  font-size: 29px;
 }
 .unit-article .entry-content h2,
 .unit-article .entry-content h3,
@@ -294,6 +293,7 @@ pre {
 .unit-article .entry-content:first-child h5,
 .unit-article .entry-content:first-child h6 {
   margin-top: 0;
+  font-weight:normal;
 }
 .unit-article a:link {
   border-bottom: 1px dotted #99cc99;
