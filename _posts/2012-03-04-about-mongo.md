@@ -10,8 +10,8 @@ tags: [database, mongodb]
 2. 在EC2上使用Mongo，建议使用Raid10 
  
 	步骤：
-		
-		2.1 yes | sudo mdadm --create -l10 -n4 /dev/md0  /dev/sdh1 /dev/sdh2 /dev/sdh3 /dev/sdh4
+			
+	   2.1 yes | sudo mdadm --create -l10 -n4 /dev/md0  /dev/sdh1 /dev/sdh2 /dev/sdh3 /dev/sdh4
 		2.2 echo DEVICE /dev/sdh1 /dev/sdh2 /dev/sdh3 /dev/sdh4 | sudo tee /etc/mdadm.conf 
 		2.3 sudo su
 		2.4 mdadm -Ds >> /etc/mdadm.conf
