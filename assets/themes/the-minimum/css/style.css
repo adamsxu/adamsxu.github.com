@@ -215,7 +215,8 @@ pre {
 .the-header {
   background: #E4D4A3;
   color: #333;
-  padding: 25px;
+  padding: 5px;
+  margin: auto;
   margin-bottom: 35px;
 }
 .the-header .logo {
@@ -547,6 +548,8 @@ pre {
   font-size: 32px;
   line-height: 42px;
 }
+
+
 .unit-article .unit-head-inner,
 .unit-article .entry-content,
 .unit-article .misc-content,
@@ -756,16 +759,16 @@ pre {
 */
 @media only screen and (min-width: 1280px) {
   .the-header .unit-inner {
-    width: 60em;
+    width:48em;
   }
   .the-header .logo {
-    width: 26.25em;
+    width: 10em;
     float: left;
   }
   .the-header .nav-global {
     margin-top: 21px;
     text-align: right;
-    width: 26.25em;
+    width: 25em;
     float: right;
   }
   .unit-article .unit-head-inner,
@@ -802,13 +805,13 @@ pre {
 */
 @media only screen and (min-width: 1410px) {
   .the-header .unit-inner {
-    width: 88.125em;
+    
   }
   .the-header .logo {
-    width: 43.125em;
+    width: 10em;
   }
   .the-header .nav-global {
-    width: 43.125em;
+    width: 25em;
   }
   .unit-article .unit-head-inner, .unit-article .entry-content, .unit-article .misc-content {
     width: 43.125em;
