@@ -11,7 +11,6 @@ tagline:
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <div class="body">
         {{ post.content }}
-        <a href="{{ post.url}}" class="readMore">Read More &raquo;</a>
       </div>
       <div class="meta">
         Posted on <a href="{{ post.url }}">{{ post.date | date_to_string }}</a>
