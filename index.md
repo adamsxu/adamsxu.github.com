@@ -10,7 +10,7 @@ tagline:
     <div class="post">
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <div class="body">
-        {{ post.content | truncate: post.truncateCharacter }}
+        {{ post.content }}
         <a href="{{ post.url}}" class="readMore">Read More &raquo;</a>
       </div>
       <div class="meta">
