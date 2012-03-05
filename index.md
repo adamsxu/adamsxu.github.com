@@ -7,8 +7,7 @@ tagline:
 
 <article class="unit-article layout-page">
   <div class="unit-inner unit-article-inner">
-    <div class="content">
-      
+    <div class="content">      
       <div class="bd">
         <div class="entry-content">
           <ul class="posts">
