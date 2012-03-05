@@ -6,7 +6,16 @@ tagline:
 {% include JB/setup %}
 
 <ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+  {% for post in site.posts limit:3 %}
+    <div class="post">
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <div class="body">
+        {{ post.content | truncate: post.truncateCharacter }}
+        <a href="{{ post.url}}" class="readMore">Read More &raquo;</a>
+      </div>
+      <div class="meta">
+        Posted on <a href="{{ post.url }}">{{ post.date | date_to_string }}</a>
+        </div>
+    </div>
   {% endfor %}
 </ul>
