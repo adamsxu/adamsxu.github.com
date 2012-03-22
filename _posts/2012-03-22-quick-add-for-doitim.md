@@ -2,7 +2,7 @@
 layout: post
 title: "Quick add for Doit.im"
 category:
-tags: [Alfred, Doit.im, extension]
+tags: [Alfred, Doit, extension]
 ---
 {% include JB/setup %}
 
