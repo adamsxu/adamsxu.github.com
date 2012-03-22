@@ -16,7 +16,7 @@ tags: [Alfred, Doit, extension]
 
 看文档里面提到支持AppleScript，找了本AppleScript教程开始，一点点试错，大概花了两个小时的时间将一个只支持标题快速添加完成。[@leeiio](https://twitter.com/#!/@leeiio)的兴趣也起来，他加上了Growl的支持。
 
-地址：https://github.com/adamsxu/Quick-Add-for-Doit.im/downloads
+地址：[https://github.com/adamsxu/Quick-Add-for-Doit.im/downloads](https://github.com/adamsxu/Quick-Add-for-Doit.im/downloads)
 BTW: 需要Alfred PowerPack支持
 
 接下来会加入Smart add以及本地队列支持（防止网络不好的情况，任务添加失败导致丢失）
