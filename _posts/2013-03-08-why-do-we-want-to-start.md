@@ -1,8 +1,18 @@
 ---
-layout: default
-published: false
+layout: post
+title: "我们为什么要创业？"
+category:
+tags: [Startup, Doit]
 ---
 
-# How does it work?
+这个问题对我来讲特别的简单。
 
-Enter Text in Markdown format.
+我有一个需求，但是市场上所有的解决方案都不让我满意。
+
+由此带来的目标是：
+1. 我相信我能做到最好，第一名那个一定是我。
+2. 这个东西不必是大的，但一定是美的。
+3. 有问题解决问题。
+4. 相信好的产品一定会赢得用户。
+5. 不捧人家的臭脚，也不会怕得罪说违心的话，做违心的事。
+6. 产品好就是好，坏就是坏，和谁做的无关，该骂就骂，该夸就夸。
