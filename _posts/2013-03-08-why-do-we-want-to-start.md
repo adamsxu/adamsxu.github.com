@@ -6,6 +6,8 @@ tags: [Startup, Doit]
 published: false
 ---
 
+{% include JB/setup %}
+
 这个问题对我来讲特别的简单。
 
 我有一个需求，但是市场上所有的解决方案都不让我满意。
